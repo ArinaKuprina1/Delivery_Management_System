@@ -1,5 +1,3 @@
-Here’s an improved and more professional version of your README file:
-
 ---
 
 # **Delivery Management System**  
